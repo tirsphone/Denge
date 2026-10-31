@@ -2,7 +2,7 @@
 
 Pilates, yoga ve kalistenik antrenman uygulaması. Telefona kurulabilir web uygulaması (PWA); ilk açılıştan sonra internetsiz çalışır.
 
-**Uygulama adresi:** https://tirsphone.github.io/denge/
+**Uygulama adresi:** https://tirsphone.github.io/Denge/
 
 ## Telefona kurulum
 - **iPhone:** Safari'de adresi aç → Paylaş → Ana Ekrana Ekle.
